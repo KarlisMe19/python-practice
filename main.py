@@ -24,3 +24,4 @@ for i in range(26):
     letters[characters] = i + 1
 print(letters)
 
+
