@@ -51,7 +51,7 @@ print(capitalized_new_string)  # Hello world
 uppercased_new_string = new_string.upper()
 print(uppercased_new_string)  # HELLO WORLD
 
-print(uppercased_new_string.isupper())\
+print(uppercased_new_string.isupper())
 
 lowercased_new_string = new_string.lower()
 print(lowercased_new_string.islower())
