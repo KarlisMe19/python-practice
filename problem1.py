@@ -57,3 +57,10 @@ for i in Ace:
 
 gabrielAvg = gabrielGradeSum/gabrielSubjectNum
 print(f"\nAce's average is {gabrielAvg}")
+
+# Find the top-performing student
+
+#Compare the three student's grades
+classAvg = {lindaAvg, aceAvg, gabrielAvg}
+for i in classAvg:
+    print("Class avg: ", i)
